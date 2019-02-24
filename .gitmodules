@@ -1,18 +1,18 @@
 [submodule "desktop-apps"]
 	path = desktop-apps
-	url = https://github.com/ONLYOFFICE/desktop-apps.git
+	url = https://github.com/azias/desktop-apps.git
 [submodule "desktop-sdk"]
 	path = desktop-sdk
-	url = https://github.com/ONLYOFFICE/desktop-sdk.git
+	url = https://github.com/azias/desktop-sdk.git
 [submodule "core"]
 	path = core
-	url = https://github.com/ONLYOFFICE/core.git
+	url = https://github.com/azias/core.git
 [submodule "sdkjs"]
 	path = sdkjs
-	url = https://github.com/ONLYOFFICE/sdkjs.git
+	url = https://github.com/azias/sdkjs.git
 [submodule "dictionaries"]
 	path = dictionaries
-	url = https://github.com/ONLYOFFICE/dictionaries.git
+	url = https://github.com/azias/dictionaries.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/ONLYOFFICE/web-apps-pro.git
+	url = https://github.com/azias/web-apps-pro.git
